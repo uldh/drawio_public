@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T07:59:50.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="OYKesgwW8InYV7lcPTny" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T10:28:57.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="Lz0NzSttwcY5TFA-JWRm" version="20.5.3" type="github">
   <diagram id="rc35-oDVXO251KG7hpva" name="第 1 页">
     <mxGraphModel dx="2023" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,29 +43,86 @@
         <mxCell id="Nr4s4P2bhIydLxVSbpMi-25" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Nr4s4P2bhIydLxVSbpMi-22" target="Nr4s4P2bhIydLxVSbpMi-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nr4s4P2bhIydLxVSbpMi-22" value="链接" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-22" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;链接&lt;br&gt;Linking&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nr4s4P2bhIydLxVSbpMi-28" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Nr4s4P2bhIydLxVSbpMi-24" target="Nr4s4P2bhIydLxVSbpMi-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nr4s4P2bhIydLxVSbpMi-24" value="初始化" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;初始化&lt;br&gt;Initialization&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nr4s4P2bhIydLxVSbpMi-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Nr4s4P2bhIydLxVSbpMi-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="690" as="sourcePoint" />
-            <mxPoint x="230.71067811865476" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nr4s4P2bhIydLxVSbpMi-30" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Nr4s4P2bhIydLxVSbpMi-27" target="Nr4s4P2bhIydLxVSbpMi-29">
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-81" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Nr4s4P2bhIydLxVSbpMi-27" target="Nr4s4P2bhIydLxVSbpMi-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nr4s4P2bhIydLxVSbpMi-27" value="使用" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="890" width="120" height="60" as="geometry" />
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;使用&lt;br&gt;Using&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nr4s4P2bhIydLxVSbpMi-29" value="回收" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-48" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-75" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="540" width="420" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;strokeColor=#10739E;verticalAlign=bottom;labelBackgroundColor=none;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="10" width="410" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;验证&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;链接&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;准备&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="20" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;解析&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-55" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="140" y="60" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-68" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="140" y="170" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-69" value="&lt;span style=&quot;caret-color: rgb(89, 97, 114); font-family: Lato, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;正式为类变量分配内存并设置类变量默认初始值的阶段，这些内存都将在方法区中进行分配。&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;align=left;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="210" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-70" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="140" y="280" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-71" value="&lt;span style=&quot;caret-color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;常量池中的符号引用转为直接引用（主要针对&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Menlo; font-size: 12px;&quot;&gt;类、接口、字段、类方法、接口方法、方法类型、方法句柄和调用点限定符这7类符号引用&lt;/span&gt;&lt;span style=&quot;font-size: 12px; caret-color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;align=left;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="210" y="260" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-56" value="&lt;span style=&quot;font-size: 12px; caret-color: rgb(89, 97, 114); font-family: Lato, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;确保加载的类信息符合JVM规范，没有安全方面的问题。包括&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;文件格式验证、元数据验证、字节码验证、符号引用验证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;align=left;" vertex="1" parent="Nr4s4P2bhIydLxVSbpMi-75">
+          <mxGeometry x="210" y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-41" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="Nr4s4P2bhIydLxVSbpMi-75" source="Nr4s4P2bhIydLxVSbpMi-31" target="Nr4s4P2bhIydLxVSbpMi-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-43" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Nr4s4P2bhIydLxVSbpMi-75" source="Nr4s4P2bhIydLxVSbpMi-40" target="Nr4s4P2bhIydLxVSbpMi-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="770" as="sourcePoint" />
+            <mxPoint x="360" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-73" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" edge="1" parent="Nr4s4P2bhIydLxVSbpMi-75" source="Nr4s4P2bhIydLxVSbpMi-56" target="Nr4s4P2bhIydLxVSbpMi-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-76" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="990" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-77" value="&lt;p style=&quot;font-size: 12px; text-align: start; box-sizing: border-box; outline: 0px; margin: 0px 0px 16px; padding: 0px; color: rgb(77, 77, 77); overflow: auto hidden; overflow-wrap: break-word; font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; line-height: 12px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="990" width="350" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-78" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;caret-color: rgb(89, 97, 114); font-family: Lato, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;类初始化是类加载过程的最后一个阶段,&lt;/span&gt;&lt;span style=&quot;font-family: arial; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);&quot;&gt;前面的类加载阶段之后，除了在加载阶段可以自定义类加载器以外，其它操作都由 JVM 主导。到了初始阶段，才开始真正执行类中定义的 Java 程序代码。&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;caret-color: rgb(89, 97, 114); font-family: Lato, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;。&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; background-color: rgb(255, 255, 255);&quot;&gt;初始化即调用&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Menlo;&quot;&gt;&amp;lt;client&amp;gt;()&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;方法，虚拟机会保证这个类的 【构造方法】的线程安全&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1000" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-79" value="&lt;p style=&quot;text-align: start; box-sizing: border-box; outline: 0px; margin: 0px 0px 16px; padding: 0px; color: rgb(77, 77, 77); overflow: auto hidden; overflow-wrap: break-word; font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; line-height: 100%;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; outline: 0px; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;会导致 类初始化 的情况&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul style=&quot;text-align: start; box-sizing: border-box; outline: 0px; margin: 0px 0px 24px; padding: 0px; list-style: none; overflow-wrap: break-word; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; line-height: 100%;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;main 方法所在的类，总会被首先初始化&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;首次访问这个类的 静态变量 或 静态方法 时&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;子类初始化，如果父类还未初始化，会引发&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;子类访问父类的静态变量，只会触发父类的初始化&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Class.forName&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;new 会导致初始化&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;text-align: start; box-sizing: border-box; outline: 0px; margin: 0px 0px 16px; padding: 0px; color: rgb(77, 77, 77); overflow: auto hidden; overflow-wrap: break-word; font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; line-height: 100%;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; outline: 0px; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;不会导致 类初始化 的情况&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul style=&quot;text-align: start; box-sizing: border-box; outline: 0px; margin: 0px 0px 24px; padding: 0px; list-style: none; overflow-wrap: break-word; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; line-height: 100%;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;访问 类的 static final 静态变量（基本类型和字符型）不会触发初始化&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;类对象.class 不会触发初始化&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;创建该类的数组不会触发初始化&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;类加载的 loadClass 方法&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 0px 32px; padding: 0px; list-style: disc; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Class.forName 的参数2 为 false 时&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1060" width="330" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr4s4P2bhIydLxVSbpMi-80" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;卸载&lt;br&gt;Unloading&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
